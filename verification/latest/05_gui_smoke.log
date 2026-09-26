@@ -1,0 +1,2 @@
+$ xvfb-run -a /opt/pyvenv/bin/python3 tests/gui_smoke.py
+[PASS] GUI smoke

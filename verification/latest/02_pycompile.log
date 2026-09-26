@@ -1,0 +1,1 @@
+$ /opt/pyvenv/bin/python3 -m compileall -q app engine/python tests tools

@@ -1,0 +1,2 @@
+$ xvfb-run -a /opt/pyvenv/bin/python3 tests/onboarding_smoke.py
+[PASS] onboarding 5-step smoke

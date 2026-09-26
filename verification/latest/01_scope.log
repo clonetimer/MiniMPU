@@ -1,0 +1,2 @@
+$ /opt/pyvenv/bin/python3 tools/scope_check.py
+[PASS] frozen V0.1 scope + bounded V0.1.1 onboarding patch present
